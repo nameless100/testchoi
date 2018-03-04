@@ -11,7 +11,7 @@ namespace testchoithoima
         static void Main(string[] args)
         {
             Console.WriteLine("I am LongMaster!!!");
-            Console.WriteLine("I am LongMaster 2!!!");
+            Console.WriteLine("I am LongMaster 2a!!!");
         }
     }
 }
