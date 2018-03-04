@@ -12,6 +12,7 @@ namespace testchoithoima
         {
             Console.WriteLine("I am LongMaster!!!");
             Console.WriteLine("I am LongMember!!!");
+			Console.WriteLine("I added LongMember 2!!!");
         }
     }
 }
